@@ -36,20 +36,20 @@
     * Optimization of Irrigation sheduling.
     
 ## First simulation:
-	### Source code on GitHub: https://github.com/crissmath/aquacrop
-		* Tutorial 1: Notebook 1. 
-				* Daily climate measurements (Tmin, Tmax, Precip, ETo).
-				* Soil type and profile.
-				* Crop type and calendar.
-				* Initial water content.
-				* Management practises (e.g.irrigation).
-				* Run the model for chosen time period.
+### Source code on GitHub: https://github.com/crissmath/aquacrop
+* Tutorial 1: Notebook 1.
+  * Daily climate measurements (Tmin, Tmax, Precip, ETo).
+  * Soil type and profile.
+  * Crop type and calendar.
+  * Initial water content.
+  * Management practices (e.g. irrigation).
+  * Run the model for chosen time period.
 				
-		* Tutorial 2: Notebook 2 
-                * Optimization of irrigation scheduling.
-				    * Example of Maize production in Nebraska,USA.
-				    * Increasingly common to use soil-moisture sensors
-				    * Determine optimal set of thresholds to maximise profits/yields Subject to maximum seasonal irrigation.
+* Tutorial 2: Notebook 2 
+  * Optimization of irrigation scheduling.
+  * Example of Maize production in Nebraska,USA.
+  * Increasingly common to use soil-moisture sensors
+  * Determine optimal set of thresholds to maximise profits/yields Subject to maximum seasonal irrigation.
 
 ## Install
 
