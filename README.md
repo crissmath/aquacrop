@@ -2,7 +2,6 @@
 
 * What is Aquacrop (Explain for Rossana).
 
-
 * What is the purpouse of use this:
     * Improving Irrigations water efficiency.
     * Agriculture uses more freshwater globally than any other sector.
@@ -20,7 +19,7 @@
 
 * Introducing AquaCrop-OSPy
 
-    ![AquaCrop-OSPy](https://pypi.org/project/aquacrop/)
+    ![AquaCrop-OSPy](figures/aquacrop.png)
 
 	* AquaCrop-OSPy is an open-source python implementation of the FAO AquaCrop model.
 	* AquaCrop aims to accurately simulate crop response to water stress
@@ -57,6 +56,8 @@ A number of tutorials has been created (more to be added in future) to help user
 2.  <a href=https://colab.research.google.com/github/aquacropos/aquacrop/blob/master/docs/notebooks/AquaCrop_OSPy_Notebook_2.ipynb>Estimation of irrigation water demands</a>
 3.  <a href=https://colab.research.google.com/github/aquacropos/aquacrop/blob/master/docs/notebooks/AquaCrop_OSPy_Notebook_3.ipynb>Optimisation of irrigation management strategies</a>
 4.  <a href=https://colab.research.google.com/github/aquacropos/aquacrop/blob/master/docs/notebooks/AquaCrop_OSPy_Notebook_4.ipynb>Projection of climate change impacts</a>
+
+
 
 
 
