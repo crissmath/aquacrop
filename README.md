@@ -18,7 +18,7 @@
  * Evaluating irrigation management strategies.
 
 ## Introducing AquaCrop-OSPy
-    ![AquaCrop-OSPy](figures/aquacrop.png)
+![AquaCrop-OSPy](figures/aquacrop.png)
  * AquaCrop-OSPy is an open-source python implementation of the FAO AquaCrop model.
  * AquaCrop aims to accurately simulate crop response to water stress
  * ACOSP builds on existing implementations of AquaCrop
