@@ -1,14 +1,14 @@
 # Tutorial AquaCrop-OSPy
 
-* What is Aquacrop (Explained by Rossana P.()).
+## What is Aquacrop (Explained by Rossana P.()).
 
-* What is the purpouse of use this:
+## What is the purpouse of use this:
     * Improving Irrigations water efficiency.
     * Agriculture uses more freshwater globally than any other sector.
     * Increse demans on water resourses from all sectors.
     * Need to imprtove irrigation watrer efficience. 
 
-* Introduction to crop-growth models.
+## Introduction to crop-growth models.
     * Crop-growth models are powerful tools which simulate
     * crop growth in response to climate and management practises.
     * Many experiments are too impractical to do in an actual field.
@@ -17,7 +17,7 @@
     * Prediction of climate change impacts on agricultural yields and crop-water demands,
     * Evaluating irrigation management strategies.
 
-* Introducing AquaCrop-OSPy
+## Introducing AquaCrop-OSPy
     ![AquaCrop-OSPy](figures/aquacrop.png)
 	* AquaCrop-OSPy is an open-source python implementation of the FAO AquaCrop model.
 	* AquaCrop aims to accurately simulate crop response to water stress
@@ -25,18 +25,18 @@
 	* in Matlab (Foster et al, 2017) and R (Rodriguez and Ober, 2019).
 	* Peer reviewed article in Agricultrual Water Management.
 
-* What does this version have over the other:
+## What does this version have over the other:
 	* Only basic Python experience required.
 	* Flexible adjust model inputs and integrate with other Python modules.
 	* Jupyter Notebooks Tutorials.
 	* You can use Web browser without the need to localy install.
 
-* Example of use cases: 
+## Example of use cases: 
     * How to run first Simulation.
     * Optimization of Irrigation sheduling.
     
-* First simulation:
-	* Source code on GitHub: https://github.com/crissmath/aquacrop
+## First simulation:
+	### Source code on GitHub: https://github.com/crissmath/aquacrop
 		* Tutorial 1: Notebook 1. 
 				* Daily climate measurements (Tmin, Tmax, Precip, ETo).
 				* Soil type and profile.
